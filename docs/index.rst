@@ -10,9 +10,13 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
-   *
+   authors
+   introduction
+   installation
+   contributing
+   history
+   
 
 
 
