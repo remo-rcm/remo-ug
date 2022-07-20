@@ -1,1 +1,4 @@
-.. include:: ../README.md
+Readme File
+===========
+
+.. mdinclude:: ../README.md
