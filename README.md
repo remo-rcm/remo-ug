@@ -4,11 +4,6 @@
 
 # REMO2020 - A modular regional Earth System Model
 
-The model implements a new software architecture based on FLASH hydrodynamics code.
-To get an introduction, I recommend reading: 
-
-http://flash.uchicago.edu/site/flashcode/user_support/flash3_ug_3p3/node8.html#SECTION03120000000000000000
-
 ## Quickstart
 
 A more detailed Documentation will follow. For now try:
