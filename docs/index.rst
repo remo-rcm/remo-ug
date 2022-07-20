@@ -11,8 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   ../README.md
-   readme
+   README.md
    authors
    introduction
    installation
