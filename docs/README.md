@@ -4,9 +4,15 @@
 
 # REMO2020 - A modular regional Earth System Model
 
+REMO is available in the [DKRZ gitlab](https://gitlab.dkrz.de/). Since the model contains a lot of legacy code, the current licensing situations forbids to make the source code open. However, please do not hesitate to [contact the maintainers](mailto:contact@remo-rcm.de) to get a copy of the model code or to gain to the repository. Once you have access, you can clone the source code from the repository by using the following command:
+
+```bash
+git clone https://gitlab.dkrz.de/remo/remo
+```
+
 ## Quickstart
 
-A more detailed Documentation will follow. For now try:
+To setupt REMO in the current basic configuration, you can use the following command:
 
 ```
 ./setup -auto Remo2020 -objdir=Remo2020
@@ -91,7 +97,7 @@ srun  --ntasks=${NCPU} --mpi=pmi2...
 
 The mpi compiler for openmpi is called `mpiifort`.
 
-### IO
+## IO
 
 The model now contains a stream-like approach for handling internal fields
 and meta data for IO for both IEG and NetCDF IO. Right now, the model requires
