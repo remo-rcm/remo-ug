@@ -32,7 +32,7 @@ options, you can choose:
 
 ## Compilation and Running on Levante
 
-REMO is preconfigured if compiled from a login node at [DKRZ HLRE-4 (Levante)](https://docs.dkrz.de/doc/levante/). Different combinations of Fortran and MPI compilers are possible and should be used for compilation and runscripts consistently. Note, that these examples are only snapshots and might change when new compiler versions are available. Note that the `mpif90` compiler command is deprecated, see also [here](https://docs.dkrz.de/doc/levante/code-development/compiling-and-linking.html#mpi-compiler-wrappers).
+REMO is preconfigured if compiled from a login node at [DKRZ HLRE-4 (Levante)](https://docs.dkrz.de/doc/levante/). In general, you should have a look at the Levante documentation and the resources of the [introduction course](https://indico.dkrz.de/event/40/). Different combinations of Fortran and MPI compilers are possible and should be used for compilation and runscripts consistently. Note, that these examples are only snapshots and might change when new compiler versions are available. Note that the `mpif90` compiler command is deprecated, see also [here](https://docs.dkrz.de/doc/levante/code-development/compiling-and-linking.html#mpi-compiler-wrappers).
 
 ### OpenMPI4
 
