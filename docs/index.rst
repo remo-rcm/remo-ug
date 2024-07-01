@@ -15,7 +15,7 @@ Contents:
    authors
    introduction
    installation
-   contributing
+   dynamics
    history
    
 
